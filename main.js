@@ -24,8 +24,8 @@ const mostrardatos=(data)=>{
 
 for(let i=0; i<data.length;i++){
 if(data[i].usuario===usuariop.value && data[i].password===passwordp.value){
+  validador=true;
   if(data[i].turno==="MAÑANA"){
-    
     window.location.href="principal_morning.html";
   }else if(data[i].turno==="TARDE"){
     window.location.href="principal_afternoon.html";
