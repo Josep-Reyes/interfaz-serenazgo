@@ -20,9 +20,9 @@ body {
     display: flex;
     flex-direction: row;
     background: #fff;
-    width: 96%;
-    height: 96%;
-    padding:2%;
+    width: 98%;
+    height: 98%;
+    padding:1%;
     text-align: center;
     overflow: hidden;
     animation: show 1s;
