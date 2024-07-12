@@ -264,7 +264,7 @@ button:hover {
     @media screen and (max-width:450px) {
         .box {
             width: 95%;
-            height: 60%;
+            height: 57%;
             gap: 0px;
          }
          
