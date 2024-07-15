@@ -134,7 +134,7 @@ input:valid ~ i {
 
 button {
     width: 80%;
-    background: #1b1850;
+    background: red;
     padding: 10px 30px;
     border: 1px solid transparent;
     color:#fff;
