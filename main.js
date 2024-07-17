@@ -27,7 +27,11 @@ if(data[i].usuario===usuariop.value && data[i].password===passwordp.value){
   validador=true;
   if(usuariop.value==="43234938"){
     window.location.href="principal_mecanico.html";
-  }else{
+  }else if(usuariop.value==="43564914"){
+    window.location.href="principal_gerente.html";
+  }
+  
+  else{
     if(data[i].turno==="MAÑANA"){
       window.location.href="principal_morning.html";
     }else if(data[i].turno==="TARDE"){
