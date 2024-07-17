@@ -29,6 +29,8 @@ if(data[i].usuario===usuariop.value && data[i].password===passwordp.value){
     window.location.href="principal_mecanico.html";
   }else if(usuariop.value==="MJHONG"){
     window.location.href="principal_gerente.html";
+  }else if(usuariop.value==="AMURILLO"){
+    window.location.href="principal_subgerente.html";
   }else{
     if(data[i].turno==="MAÑANA"){
       window.location.href="principal_morning.html";
