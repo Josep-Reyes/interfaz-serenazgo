@@ -31,6 +31,10 @@ if(data[i].usuario===usuariop.value && data[i].password===passwordp.value){
     window.location.href="principal_gerente.html";
   }else if(usuariop.value==="AMURILLO" && passwordp.value==="AMURILLO"){
     window.location.href="principal_subgerente.html";
+  }else if(usuariop.value==="LVILLANUEVA" && passwordp.value==="LVILLANUEVA"){
+    window.location.href="principal_subgerente.html";
+  }else if(usuariop.value==="JPACHECO" && passwordp.value==="JPACHECO"){
+    window.location.href="principal_subgerente.html";
   }else if(usuariop.value==="CFARROMEQUE" && passwordp.value==="CFARROMEQUE"){
     window.location.href="principal_informatica.html";
   }else{
