@@ -317,5 +317,6 @@
 {"name":"ZEVALLOS HUAYNALAYA LUIS MIGUEL","usuario":"46012115","password":"46012115","turno":"TARDE","funcion":"CHOFERES"},
 {"name":"VARILLAS ORBEGOZO MARCOS","usuario":"43234938","password":"43234938","turno":"MAÑANA","funcion":"MECANICO"},
 {"name":"JHONG RODRIGUEZ ALFREDO MARTIN","usuario":"MJHONG","password":"M43564914","turno":"MAÑANA","funcion":"GERENTE"},
-{"name":"TITO MURILLO ANGEL MIGUEL","usuario":"AMURILLO","password":"AMURILLO","turno":"MAÑANA","funcion":"SUBGERENTE"}
+{"name":"TITO MURILLO ANGEL MIGUEL","usuario":"AMURILLO","password":"AMURILLO","turno":"MAÑANA","funcion":"SUBGERENTE"},
+{"name":"ZEGARRA FARROMEQUE CESAR ANTONIO","usuario":"CFARROMEQUE","password":"CFARROMEQUE","turno":"MAÑANA","funcion":"TECNOLOGÍA "}
 ]
