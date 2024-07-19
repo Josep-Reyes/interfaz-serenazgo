@@ -25,13 +25,13 @@ const mostrardatos=(data)=>{
 for(let i=0; i<data.length;i++){
 if(data[i].usuario===usuariop.value && data[i].password===passwordp.value){
   validador=true;
-  if(usuariop.value==="43234938"){
+  if(usuariop.value==="43234938" && passwordp.value==="43234938"){
     window.location.href="principal_mecanico.html";
-  }else if(usuariop.value==="MJHONG"){
+  }else if(usuariop.value==="MJHONG" && passwordp.value==="MJHONG"){
     window.location.href="principal_gerente.html";
-  }else if(usuariop.value==="AMURILLO"){
+  }else if(usuariop.value==="AMURILLO" && passwordp.value==="AMURILLO"){
     window.location.href="principal_subgerente.html";
-  }else if(usuariop.value==="CFERROQUE"){
+  }else if(usuariop.value==="CFARROMEQUE" && passwordp.value==="CFARROMEQUE"){
     window.location.href="principal_informatica.html";
   }else{
     if(data[i].turno==="MAÑANA"){
