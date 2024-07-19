@@ -239,7 +239,7 @@ button:hover {
 
         width: 85%;
         flex-direction: column;
-        height: 83%;
+        height: 85%;
         }
 
     form {
@@ -264,7 +264,7 @@ button:hover {
     @media screen and (max-width:450px) {
         .box {
             width: 95%;
-            height: 60%;
+            height: 59%;
             gap: 0px;
          }
          
