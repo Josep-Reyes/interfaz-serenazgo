@@ -318,5 +318,8 @@
 {"name":"VARILLAS ORBEGOZO MARCOS","usuario":"43234938","password":"43234938","turno":"MAÑANA","funcion":"MECANICO"},
 {"name":"JHONG RODRIGUEZ ALFREDO MARTIN","usuario":"MJHONG","password":"M43564914","turno":"MAÑANA","funcion":"GERENTE"},
 {"name":"TITO MURILLO ANGEL MIGUEL","usuario":"AMURILLO","password":"AMURILLO","turno":"MAÑANA","funcion":"SUBGERENTE"},
-{"name":"ZEGARRA FARROMEQUE CESAR ANTONIO","usuario":"CFARROMEQUE","password":"CFARROMEQUE","turno":"MAÑANA","funcion":"TECNOLOGÍA "}
+{"name":"ZEGARRA FARROMEQUE CESAR ANTONIO","usuario":"CFARROMEQUE","password":"CFARROMEQUE","turno":"MAÑANA","funcion":"TECNOLOGÍA"},
+{"name":"VILLANUEVA LENIN SALDAÑA","usuario":"LVILLANUEVA","password":"LVILLANUEVA","turno":"MAÑANA","funcion":"JEFE CENTRAL"},
+{"name":"PACHECO JIMMY PIZARRO","usuario":"JPACHECO","password":"JPACHECO","turno":"MAÑANA","funcion":"JEFE DE OPERACIONES"}
+
 ]
