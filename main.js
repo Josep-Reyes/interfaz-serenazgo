@@ -27,7 +27,7 @@ if(data[i].usuario===usuariop.value && data[i].password===passwordp.value){
   validador=true;
   if(usuariop.value==="43234938" && passwordp.value==="43234938"){
     window.location.href="principal_mecanico.html";
-  }else if(usuariop.value==="MJHONG" && passwordp.value==="MJHONG"){
+  }else if(usuariop.value==="MJHONG" && passwordp.value==="M43564914"){
     window.location.href="principal_gerente.html";
   }else if(usuariop.value==="AMURILLO" && passwordp.value==="AMURILLO"){
     window.location.href="principal_subgerente.html";
